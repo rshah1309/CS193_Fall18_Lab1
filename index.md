@@ -1,3 +1,11 @@
+# Rishabh Shah's First CS193 Homework
+- I think the TA's are knowledgeable
+- I like the smaller class size
+- I like to learn new tools for the furtherment of my knowledge
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
